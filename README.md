@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-A clean, real-time weather app built with pure **HTML**, **CSS**, and **JavaScript** — powered by the OpenWeatherMap API. Search any city and instantly get live temperature, humidity, and wind speed with matching weather icons.
+A clean, real-time weather app built with pure **HTML**, **CSS**, and **JavaScript**, powered by the OpenWeatherMap API. Search any city and instantly get live temperature, humidity, and wind speed with matching weather icons.
 
 ---
 
